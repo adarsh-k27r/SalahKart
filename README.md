@@ -7,6 +7,7 @@
 <div style="height: 10px;"></div>
 
 **SalahKart- A Product of Jaspy Technologies Pvt. Ltd.**
+**CIN: U78100UP2024PTC199951**
 
 <div style="height: 10px;"></div>
 
